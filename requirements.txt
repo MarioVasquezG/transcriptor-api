@@ -1,2 +1,8 @@
 fastapi
 uvicorn
+whisper
+torch
+pyannote.audio
+ffmpeg-python
+python-multipart
+python-dotenv
